@@ -1,6 +1,14 @@
 # IELTS
 Repo about English proficiency and IELTS.
 
+https://takeielts.britishcouncil.org/take-ielts/prepare/free-ielts-practice-tests
+https://www.idpielts.me/free-ielts-practice-test/
+https://www.ielts.org/usa/ielts-practice-test
+https://www.ieltsbuddy.com/ielts-practice-tests.html
+https://ielts.magoosh.com/ielts-practice-test-pdf
+https://ieltsonlinetests.com/ielts-exam-library
+
+
  IELTS(International english language testing system). https://www.youtube.com/watch?v=GPoV79ANke0 refer for the link.
 
 1)can register under british council or idp , both the registration have the same format).
